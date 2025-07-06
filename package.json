@@ -1,5 +1,5 @@
 {
-  "name": "@swift/ui-library",
+  "name": "@shushila21/ui-library",
   "version": "1.0.0",
   "description": "Lightweight reusable UI components built with React 19 and Ant Design",
   "author": "Shushila Budhathoki <shushila.budhathoki28@gmail.com>",
@@ -47,5 +47,10 @@
   "packageManager": "pnpm@10.6.2",
   "publishConfig": {
     "access": "public"
-  }
+  },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/shushila21/ui-component-library.git"
+  },
+  "homepage": "https://github.com/shushila21/ui-component-library#readme"
 }
